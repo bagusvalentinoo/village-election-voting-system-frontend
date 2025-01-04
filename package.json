@@ -1,0 +1,30 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/image": "^1.7.0",
+    "@nuxt/ui": "^2.16.0",
+    "@nuxtjs/toast": "^3.3.1",
+    "@pinia/nuxt": "^0.5.1",
+    "chart.js": "^4.4.3",
+    "cookie-universal-nuxt": "^2.2.2",
+    "date-fns": "^3.6.0",
+    "nuxt": "^3.11.1",
+    "pinia": "^2.1.7",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0",
+    "vue-toast-notification": "^3.1.2"
+  },
+  "packageManager": "pnpm@9.1.4+sha512.9df9cf27c91715646c7d675d1c9c8e41f6fce88246f1318c1aa6a1ed1aeb3c4f032fcdf4ba63cc69c4fe6d634279176b5358727d8f2cc1e65b65f43ce2f8bfb0",
+  "devDependencies": {
+    "zod": "^3.23.8"
+  }
+}
