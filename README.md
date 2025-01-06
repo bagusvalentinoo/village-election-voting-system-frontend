@@ -34,7 +34,7 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/ExeCiety/village-election-voting-system-frontend.git
+   git clone https://github.com/bagusvalentinoo/village-election-voting-system-frontend.git
    ```
 
 2. **Navigate to the project directory:**
